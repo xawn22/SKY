@@ -10,4 +10,5 @@ os support ( ubuntu 18.04 )
 os support ( ubuntu 20.04 )
 
 thanks support all team
-by @setiawan
+<br>
+script language ( bash, python, etc)
