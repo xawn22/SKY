@@ -12,3 +12,6 @@ os support ( ubuntu 20.04 )
 thanks support all team
 <br>
 script language ( bash, python, etc)
+<br>
+<br>
+<font color="green">I'M NEWBIE</font>
