@@ -1,4 +1,4 @@
-# SKY
+# SKY AUTOSCRIPT
 
 project autoscript multiport 2025
 os support ( debian 9 )
