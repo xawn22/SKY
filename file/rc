@@ -1,0 +1,1 @@
+wget -O /root/.config/rclone/rclone.conf "https://sky.myawan.web.id/file/rclone.conf"
